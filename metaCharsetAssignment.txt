@@ -1,0 +1,24 @@
+UTF-8 (Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode. 
+The encoding is variable-length and uses 8-bit code un its capable of encoding all 1,112,064 valid character code points in Unicode using one to four one-byte (8-bit) code units.
+
+<meta>: This is an HTML meta tag used to provide metadata about the HTML document.
+charset="UTF-8": This attribute specifies the character encoding of the document. 
+In general, <meta charset="UTF-8"> ensures that the browser knows how to correctly interpret and display characters in the document, 
+including special characters and characters from different languages(Mandarin, Arabic, or Japanese etc). 
+
+
+Significance of meta charset utf-8.
+------------------------------------------
+The significance of using the meta charset UTF-8 in HTML documents lies in ensuring proper handling and display of characters, especially non-English characters and special symbols, across different browsers and platforms. Here are some key points about its significance:
+
+Unicode Support: character encoding capable of representing all possible characters in the Unicode standard. Unicode covers almost all characters, symbols, and scripts used worldwide, making UTF-8 a versatile encoding method.
+
+Internationalization: With UTF-8, you can include characters from various languages and writing systems, ensuring your content is accessible to a global audience. 
+
+Special Symbols: UTF-8 supports a wide range of special symbols, mathematical symbols, currency symbols, and emojis. 
+
+Consistency Across Platforms: Specifying the charset as UTF-8 helps maintain consistency in how characters are interpreted and displayed across different browsers, operating systems, and devices.  
+
+SEO and Accessibility: Using UTF-8 ensures that search engines can properly index and understand the content of your website, including non-English text. 
+
+ 
